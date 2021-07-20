@@ -1,5 +1,5 @@
 module UserHelper
-  def friends?
+  def friends?(user)
     Friendship.exists?(user_id: current_user.id, friend_id: user)
   end
   def sent_requests
