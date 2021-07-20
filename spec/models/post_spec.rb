@@ -5,4 +5,3 @@ RSpec.describe Post, type: :model do
   it { should have_many(:comments) }
   it { should have_many(:likes) }
 end
-
