@@ -71,11 +71,6 @@ TBA
 
 ## Authors
 
-👤 **Oni Olajumuke Priscilla**
-
-- [@githubhandle](https://github.com/prolajumokeoni)
-- [@twitterhandle](https://twitter.com/prolajumokeoni)
-- [LinkedIn](https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162/)
 TBA
 
 ## 🤝 Contributing
@@ -90,12 +85,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+TBA
 
+## 📝 License
 
-
-
-
-
+TBA
 
